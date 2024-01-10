@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejasvi Raj</h1>
-<h3 align="center">📍I live in Ghaziabd, India </h3>
-<h3 align="center">- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS. </h3>
-<h3 align="center">- I usually work with design systems and ui-component based react projects and make complex and beautiful components. </h3>
-<h3 align="center">- I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff. </h3>
+<h3>📍I live in Ghaziabd, India </h3>
+<h3">- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS. </h3>
+<h3>- I usually work with design systems and ui-component based react projects and make complex and beautiful components. </h3>
+<h3>- I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvi8686" /> </p>
 
