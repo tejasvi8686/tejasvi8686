@@ -19,3 +19,5 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasvi8686" alt="tejasvi8686" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvi8686&show_icons=true&locale=en&layout=compact" alt="tejasvi8686" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasvi8686&show_icons=true&locale=en" alt="tejasvi8686" /></p>
