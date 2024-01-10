@@ -9,6 +9,12 @@
 - My work experience
   - 🔴 Worked as a Frontend Software Developer Intern at [LipiJobs](https://lipijobs.com/)
   - 🔴 Worked as Frontend Software Developer at [Own Technologies](https://owntechnologies.com/)
+ 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tejasvi94987859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasvi94987859" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/tejasviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tejasviraj" height="30" width="40" /></a>
+</p>
 
 - 📫 How to reach me **tejasviraj8686@gmail.com**
 
