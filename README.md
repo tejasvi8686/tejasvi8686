@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tejasvi Raj</h1>
-<h5>📍I live in Ghaziabd, India </h5>
-<h5>I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS. </h5>
-<h5>I usually work with design systems and ui-component based react projects and make complex and beautiful components. </h5>
-<h5>I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff. </h5>
+<h4>📍I live in Ghaziabd, India </h4>
+<h4>I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS. </h4>
+<h4>I usually work with design systems and ui-component based react projects and make complex and beautiful components. </h4>
+<h4>I do Product Design, Frontend Development, UI Engineering, Design Systems Engineering and Design related stuff. </h4>
 
 - My Tech Stack: **ReactJS, Redux, JavaScript, TailwindCSS, Figma AdobeXD.**
 - Languages I know: **JavaScript, TypeScript, C++.**
