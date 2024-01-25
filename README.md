@@ -8,7 +8,7 @@
 
 - My work experience
   - 🔴 Worked as a Frontend Software Developer Intern at [LipiJobs](https://lipijobs.com/)
-  - 🔴 Worked as Frontend Software Developer at [Own Technologies](https://owntechnologies.com/)
+  - 🔴 Worked as Frontend Software Developer Intern at [Own Technologies](https://owntechnologies.com/)
  
 - 📫 How to reach me **tejasviraj8686@gmail.com**
 
