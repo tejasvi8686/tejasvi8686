@@ -6,13 +6,13 @@
 - My Tech Stack: **NextJS, ReactJS, Redux, JavaScript, TailwindCSS, Figma AdobeXD.**
 - Languages I know: **JavaScript, TypeScript, C, Python, C++.**
 
-- Portfolio : https://tejasvi-raj.vercel.app/
+
 
 - My work experience
   - 🔴 Worked as Frontend Software Developer Intern at [Own Technologies](https://owntechnologies.com/)
  
 - 📫 How to reach me **tejasviraj8686@gmail.com**
-
+- Portfolio : https://tejasvi-raj.vercel.app/
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvi8686" /> </p>
 
 <h3 align="left">Connect with me:-</h3>
