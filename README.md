@@ -6,6 +6,8 @@
 - My Tech Stack: **NextJS, ReactJS, Redux, JavaScript, TailwindCSS, Figma AdobeXD.**
 - Languages I know: **JavaScript, TypeScript, C, Python, C++.**
 
+- Portfolio : https://tejasvi-raj.vercel.app/
+
 - My work experience
   - 🔴 Worked as Frontend Software Developer Intern at [Own Technologies](https://owntechnologies.com/)
  
