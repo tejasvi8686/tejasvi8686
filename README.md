@@ -1,10 +1,10 @@
 <h1>Hi 👋, I'm Tejasvi Raj</h1>   
 <h4>📍I live in Ghaziabd, India </h4>
-<h4>I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS. </h4>
+<h4>I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS. </h4>
 <h4>I usually work with design systems and ui-component based react projects and make complex and beautiful components.</h4>
 
 - My Tech Stack: **NextJS, ReactJS, Redux, JavaScript, TailwindCSS, Figma AdobeXD.**
-- Languages I know: **JavaScript, TypeScript, C, Python, C++.**
+- Languages I know: **JavaScript, TypeScript, C++.**
 
 
 
