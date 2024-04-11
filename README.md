@@ -9,7 +9,7 @@
 
 
 - My work experience
-  - 🔴 Worked as Frontend Software Developer Intern at [Own Technologies](https://owntechnologies.com/)
+  - 🔴 Worked as Frontend Software Developer Intern at [Own Technologies](https://owntechnologies.in/)
  
 - 📫 How to reach me **tejasviraj8686@gmail.com**
 - Portfolio : https://tejasvi-raj.vercel.app/
