@@ -7,7 +7,6 @@
 - Languages I know: **JavaScript, TypeScript, C++.**
 
 
-
 - My work experience
   - 🔴 Worked as Frontend Software Developer Intern at [Own Technologies](https://owntechnologies.in/)
  
