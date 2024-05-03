@@ -30,7 +30,6 @@
         src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat"
         alt="tejasvi8686" /> </p>
 
-
 <p align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=tejasvi8686&theme=tokyonight&hide_border=true" />
     <img
@@ -45,10 +44,8 @@
 <p align="center">
     <a href="https://twitter.com/Tejasvi94987859" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="kamas_dev" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/tejasviraj/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
-            alt="kamasahdickson" height="30" width="40" /></a>
+            alt="tejasviraj" height="30" width="40" /></a>
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/tejasviraj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tejasviraj/" height="30" width="40" /></a>
   
 </p>
 </p>
