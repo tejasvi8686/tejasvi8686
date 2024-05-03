@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/tejasvi8686/tejasvi8686/blob/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://github.com/Tejasvi-Raj/Tejasvi-Raj/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <h3 align="center">Connect with me:</h3>
