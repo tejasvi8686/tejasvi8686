@@ -1,33 +1,50 @@
+ <p align="center">
+    <img src="https://github.com/Kamasah-Dickson/Kamasah-Dickson/assets/86136379/f0ea5680-1c02-4cd6-b3e8-ec06e282ea5f"
+      alt="pixel-night-banner">
+  </p>
 
-<h1>Hi 👋, I'm Tejasvi Raj</h1>  
-<h4>📍I live in Ghaziabd, India </h4>
-<h4>I am currently working with technologies based on Javascript & Typescript. Technologies such as ReactJS, NextJS. </h4>
-<h4>I usually work with design systems and ui-component based react projects and make complex and beautiful components.</h4>
+  <h1 align="center">Hello there, I'm Kamasah Dickson. A Frontend Developer🔥</h1>
+  <h3 align="center">I spend most of my time coding. I like to challenge myself, and being a developer is one of the
+    best decisions I've made🔥⚡</h3>
 
-- My Tech Stack: **NextJS, ReactJS, Redux, JavaScript, TailwindCSS, Figma AdobeXD.**
-- Languages I know: **JavaScript, TypeScript, C++.**
+  <p align="center">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Kamasah-Dickson&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamasah-Dickson&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true" />
+  </p>
 
+  <p align="center">
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamasah-Dickson&theme=tokyonight" />
+  </p>
 
-- My work experience
-  - 🔴 Worked as Frontend Software Developer Intern at [Own Technologies](https://owntechnologies.in/)
- 
-- 📫 How to reach me **tejasviraj8686@gmail.com**
-- Portfolio : https://tejasvi-raj.vercel.app/
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat" alt="tejasvi8686" /> </p>
+  <h2 align="center">Languages and Tools</h2>
+  <p align="center">
+    <img
+      src="https://skillicons.dev/icons?i=git,github,express,cypress,redux,vite,html,css,sass,tailwind,nodejs,js,ts,react,solidity,nextjs,firebase,mongodb,figma,prisma&perline=10"
+      alt="skills logos" />
+  </p>
 
-<h3 align="left">Connect with me:-</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/tejasviraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/tejasviraj" height="30" width="40" /></a>
-<a href="https://twitter.com/tejasvi94987859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tejasvi94987859" height="30" width="40" /></a>
-</p>
+  <p align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Kamasah-Dickson&theme=tokyonight&hide_border=true" />
+    <img
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamasah-Dickson&theme=tokyonight" />
+  </p>
 
+  <p align="center">
+    <img src="https://github.com/Kamasah-Dickson/Kamasah-Dickson/blob/output/github-contribution-grid-snake-dark.svg" />
+  </p>
 
-<h3 align="left">Languages and Tools:-</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasvi8686" alt="tejasvi8686" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasvi8686&show_icons=true&locale=en&layout=compact" alt="tejasvi8686" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejasvi8686&show_icons=true&locale=en" alt="tejasvi8686" /></p>
+  <h3 align="center">Connect with me:</h3>
+  <p align="center">
+    <a href="https://twitter.com/kamas_dev" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+        alt="kamas_dev" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/kamasahdickson" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="kamasahdickson" height="30" width="40" /></a>
+    <a href="https://discord.gg/Dickson#8757" target="blank"><img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+        alt="Dickson#8757" height="30" width="40" /></a>
+  </p>
