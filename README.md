@@ -1,4 +1,4 @@
-https://private-user-images.githubusercontent.com/
+
 <h1>Hi 👋, I'm Tejasvi Raj</h1>  
 <h4>📍I live in Ghaziabd, India </h4>
 <h4>I am currently working with technologies based on Javascript & Typescript. Technologies such as ReactJS, NextJS. </h4>
