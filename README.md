@@ -4,7 +4,7 @@
         alt="pixel-night-banner">
 </p>
 
-<h1 align="center">Hello there, I'm Tejasvi Raj. A Frontend Developer🔥</h1>
+<h1 align="center">Hello there, I'm Tejasvi Raj. A Frontend Developer🔥⚡</h1>
 <h3 align="center">I spend most of my time coding. I like to challenge myself, and being a developer is one of the
     best decisions I've made🔥⚡</h3>
 
