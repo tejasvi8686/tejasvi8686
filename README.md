@@ -7,7 +7,7 @@
 
 <h1 align="center">Hello there, I'm Tejasvi Raj. A Frontend Developer🔥⚡</h1>
 <h3 align="center">I spend most of my time coding. I like to challenge myself, and being a developer is one of the
-    best decisions I've made🔥⚡</h3>
+    best decisions I've made🔥⚡</h3> 
     
 <p align="center"> <img
         src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat"
