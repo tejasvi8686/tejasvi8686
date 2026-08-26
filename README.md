@@ -3,14 +3,27 @@
         alt="pixel-night-banner">
 </p>
 
-<h1 align="center">Hello there, I'm Tejasvi Raj — React Native / Expo Developer 🔥⚡</h1>
+<h1 align="center">Hello there, I'm Tejasvi Raj — Frontend Developer 🔥⚡</h1>
 <h3 align="center">I build mobile apps, and lately the infrastructure underneath them.
     I like shipping things end to end and finding out what actually breaks on a real device.</h3>
+
+<p align="center">
+    <a href="https://tejasviraj.in">tejasviraj.in</a> ·
+    <a href="https://www.linkedin.com/in/tejasviraj/">LinkedIn</a> ·
+    <a href="mailto:tejasviraj8686@gmail.com">Email</a>
+</p>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat"
         alt="tejasvi8686" />
 </p>
+
+---
+
+2+ years building and shipping production web and mobile products with React,
+Next.js and React Native (Expo). The work has spanned BLE hardware integration,
+in-app subscriptions and real-time data sync — apps released to the App Store
+and Play Store, and an open-source React Native package published to npm.
 
 ---
 
@@ -59,18 +72,46 @@ with npm trusted publishing (OIDC), so there is no long-lived token to leak.
 
 ---
 
+## 🏗 What I've been shipping
+
+**Gym operations platform** — the Next.js web app and the React Native (Expo)
+mobile app: cleaning task workflows, equipment monitoring, incident reporting and
+staff workload dashboards, with OTP auth, role-based routing and real-time sync
+over Supabase, Strapi and React Query.
+
+**Bluetooth baby monitor** — MVP through production release. `react-native-ble-plx`
+for live temperature, humidity and battery telemetry, plus TOG clothing
+recommendations, alerts, multi-device pairing and family sharing on Supabase.
+
+**Fitness products** — an AI fitness app with generated workout plans, macro and
+water tracking, camera-based meal logging and sleep/recovery analytics, alongside
+a Norwegian client's mobile app and Next.js admin panel with RevenueCat handling
+in-app subscriptions.
+
+**Release pipeline** — EAS Build and GitHub Actions for automated TestFlight and
+Play Store releases, replacing a manual build process. Web on Vercel.
+
+**VolteX** — full-stack e-commerce: Next.js storefront, Express REST API,
+Prisma/PostgreSQL data layer, role-based access control middleware and an admin
+panel with notification management.
+
+🥇 **1st place, AI Feature Planner Hackathon (2025)** — first among 50+ teams,
+built end to end in 24 hours on the OpenAI API.
+
+---
+
 ## 🛠 What I work with
 
 | | |
 |---|---|
-| **Mobile** | React Native · Expo · TypeScript · EAS |
-| **State** | Redux Toolkit · Redux Persist |
-| **Backend** | Supabase · PostgreSQL · Edge Functions |
-| **AI** | OpenAI Realtime API · GPT-4o · WebRTC · function calling |
-| **Web** | React · Next.js · Tailwind |
+| **Languages** | TypeScript · JavaScript |
+| **Web** | React · Next.js (App Router) · Tailwind · shadcn/ui · Redux Toolkit · React Query |
+| **Mobile** | React Native · Expo · Expo Router · EAS Build · RevenueCat · react-native-ble-plx |
+| **APIs & Data** | GraphQL · REST · Supabase · PostgreSQL · Prisma · Firebase · Strapi · Node.js · Express |
+| **Tools** | Git · GitHub Actions · Vercel · Postman · Figma · Claude Code · Codex |
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,redux,nodejs,nextjs,supabase,postgres,firebase,tailwind,sass,html,css,vite,express,git,github,figma&perline=9"
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,graphql,supabase,postgres,prisma,firebase,vercel,git,github,figma,postman&perline=9"
         alt="skills logos" />
 </p>
 
@@ -100,5 +141,6 @@ with npm trusted publishing (OIDC), so there is no long-lived token to leak.
 ---
 
 <p align="center">
-    📫 <a href="mailto:tejasviraj8686@gmail.com">tejasviraj8686@gmail.com</a>
+    📫 <a href="mailto:tejasviraj8686@gmail.com">tejasviraj8686@gmail.com</a> ·
+    📄 <a href="https://tejasviraj.in">tejasviraj.in</a>
 </p>
