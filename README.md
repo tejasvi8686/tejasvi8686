@@ -1,29 +1,29 @@
 <p align="center">
-    <img src="https://github.com/Kamasah-Dickson/Kamasah-Dickson/assets/86136379/f0ea5680-1c02-4cd6-b3e8-ec06e282ea5f"
-        alt="pixel-night-banner">
+    <img src="https://raw.githubusercontent.com/tejasvi8686/tejasvi8686/main/assets/banner.gif"
+        alt="pixel waterfall banner" width="100%">
 </p>
 
-<h1 align="center">Hello there, I'm Tejasvi Raj — Frontend Developer 🔥⚡</h1>
-<h3 align="center">I build mobile apps, and lately the infrastructure underneath them.
-    I like shipping things end to end and finding out what actually breaks on a real device.</h3>
+<h1 align="center">Hi, I'm Tejasvi Raj — Frontend Developer 🔥⚡</h1>
+<h3 align="center">I build mobile apps, and lately the infrastructure underneath them.<br/>
+    I like shipping end to end and finding out what actually breaks on a real device.</h3>
 
 <p align="center">
-    <a href="https://tejasviraj.in">tejasviraj.in</a> ·
-    <a href="https://www.linkedin.com/in/tejasviraj/">LinkedIn</a> ·
-    <a href="mailto:tejasviraj8686@gmail.com">Email</a>
-</p>
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat"
-        alt="tejasvi8686" />
+    <a href="https://tejasviraj.in"><img src="https://img.shields.io/badge/Portfolio-tejasviraj.in-0e75b6?style=flat" alt="portfolio" /></a>
+    <a href="https://www.linkedin.com/in/tejasviraj/"><img src="https://img.shields.io/badge/LinkedIn-tejasviraj-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+    <a href="mailto:tejasviraj8686@gmail.com"><img src="https://img.shields.io/badge/Email-tejasviraj8686-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
+    <a href="https://cal.com/tejasviraj"><img src="https://img.shields.io/badge/Book%20a%20call-cal.com-000000?style=flat" alt="cal.com" /></a>
+    <img src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-2+ years building and shipping production web and mobile products with React,
-Next.js and React Native (Expo). The work has spanned BLE hardware integration,
-in-app subscriptions and real-time data sync — apps released to the App Store
-and Play Store, and an open-source React Native package published to npm.
+Frontend developer with **2+ years** building and shipping production web and
+mobile products with **React, Next.js and React Native (Expo)**. The work has
+spanned **BLE hardware integration**, **in-app subscriptions** and **real-time
+data sync** — with apps released to the App Store and Play Store, and an
+open-source React Native package published to npm.
+
+📍 Noida, India
 
 ---
 
@@ -72,40 +72,63 @@ with npm trusted publishing (OIDC), so there is no long-lived token to leak.
 
 ---
 
-## 🏗 What I've been shipping
+## 💼 Experience
 
-**Gym operations platform** — the Next.js web app and the React Native (Expo)
-mobile app: cleaning task workflows, equipment monitoring, incident reporting and
-staff workload dashboards, with OTP auth, role-based routing and real-time sync
-over Supabase, Strapi and React Query.
+### Frontend Developer · Appeneure — Noida, India
+`Sep 2024 – Present`
 
-**Bluetooth baby monitor** — MVP through production release. `react-native-ble-plx`
-for live temperature, humidity and battery telemetry, plus TOG clothing
-recommendations, alerts, multi-device pairing and family sharing on Supabase.
+- Built both the **Next.js web app** and the **React Native (Expo) mobile app**
+  for a gym operations platform — cleaning task workflows, equipment monitoring,
+  incident reporting and staff workload dashboards, with OTP authentication,
+  role-based routing and real-time sync via Supabase, Strapi and React Query
+- Delivered the MVP and production release of a **Bluetooth-connected baby
+  monitor app**: `react-native-ble-plx` for live temperature, humidity and
+  battery telemetry, plus TOG clothing recommendations, alerts, multi-device
+  pairing and family sharing on Supabase
+- Building the mobile app and Next.js admin panel for a **Norwegian fitness
+  client** — RevenueCat for in-app subscription management, and the
+  coach–athlete data flows
+- Built an **AI fitness app** with generated workout plans, macro and water
+  tracking, camera-based meal logging and sleep/recovery analytics, plus its
+  Next.js admin dashboard
+- Set up **EAS Build and GitHub Actions** pipelines for automated TestFlight and
+  Play Store releases, replacing a manual build process; web deployed via Vercel
 
-**Fitness products** — an AI fitness app with generated workout plans, macro and
-water tracking, camera-based meal logging and sleep/recovery analytics, alongside
-a Norwegian client's mobile app and Next.js admin panel with RevenueCat handling
-in-app subscriptions.
+### Frontend Developer Intern · Own Technologies — New Delhi, India
+`Nov 2023 – Feb 2024`
 
-**Release pipeline** — EAS Build and GitHub Actions for automated TestFlight and
-Play Store releases, replacing a manual build process. Web on Vercel.
-
-**VolteX** — full-stack e-commerce: Next.js storefront, Express REST API,
-Prisma/PostgreSQL data layer, role-based access control middleware and an admin
-panel with notification management.
-
-🥇 **1st place, AI Feature Planner Hackathon (2025)** — first among 50+ teams,
-built end to end in 24 hours on the OpenAI API.
+- Built a learning platform from scratch in React.js, Redux and SCSS, including
+  note purchase and download flows for students and an application flow for teachers
+- Created a reusable component library and responsive SCSS layouts, and added API
+  error handling with user-facing fallback states
 
 ---
 
-## 🛠 What I work with
+## 🚀 Projects
+
+### [VolteX](https://github.com/tejasvi8686/Volex_Ecommerce) · [live ↗](https://volex-ecommerce.vercel.app)
+`Next.js · Node.js · Express · PostgreSQL · Prisma`
+
+Full-stack e-commerce platform — a Next.js storefront over an Express REST API
+and a Prisma/PostgreSQL data layer, with role-based access control middleware and
+an admin panel covering catalogue, orders and notification management.
+
+---
+
+## 🏆 Achievements
+
+🥇 **1st Place — AI Feature Planner Hackathon (2025)** — first among 50+ teams
+for a web app that generates feature suggestions for any product idea, built end
+to end in 24 hours on the OpenAI API.
+
+---
+
+## 🛠 Tech
 
 | | |
 |---|---|
 | **Languages** | TypeScript · JavaScript |
-| **Web** | React · Next.js (App Router) · Tailwind · shadcn/ui · Redux Toolkit · React Query |
+| **Web** | React · Next.js (App Router) · Tailwind CSS · shadcn/ui · Redux Toolkit · React Query |
 | **Mobile** | React Native · Expo · Expo Router · EAS Build · RevenueCat · react-native-ble-plx |
 | **APIs & Data** | GraphQL · REST · Supabase · PostgreSQL · Prisma · Firebase · Strapi · Node.js · Express |
 | **Tools** | Git · GitHub Actions · Vercel · Postman · Figma · Claude Code · Codex |
@@ -114,6 +137,13 @@ built end to end in 24 hours on the OpenAI API.
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,graphql,supabase,postgres,prisma,firebase,vercel,git,github,figma,postman&perline=9"
         alt="skills logos" />
 </p>
+
+---
+
+## 🎓 Education
+
+**B.Tech, Computer Science** — Dr. K. N. Modi Institute of Engineering &
+Technology · Graduated Sep 2024
 
 ---
 
@@ -142,5 +172,6 @@ built end to end in 24 hours on the OpenAI API.
 
 <p align="center">
     📫 <a href="mailto:tejasviraj8686@gmail.com">tejasviraj8686@gmail.com</a> ·
-    📄 <a href="https://tejasviraj.in">tejasviraj.in</a>
+    🌐 <a href="https://tejasviraj.in">tejasviraj.in</a> ·
+    📅 <a href="https://cal.com/tejasviraj">Book a call</a>
 </p>
