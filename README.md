@@ -3,15 +3,9 @@
        alt="pixel waterfall banner" width="100%">
 </p>
 
-<<<<<<< HEAD
-<h1 align="center">Hi, I'm Tejasvi Raj — Frontend Developer 🔥⚡</h1>
-<h3 align="center">I build mobile apps, and lately the infrastructure underneath them.<br/>
-I like shipping end to end and finding out what actually breaks on a real device.</h3>
-=======
 <h1 align="center">Hi, I'm Tejasvi Raj 👋</h1>
 <h3 align="center">I build complete products — web app, mobile app, admin panel and API.<br/>
-    You hire one developer, not four.</h3>
->>>>>>> 4c33529 (docs: update README to reflect enhanced personal branding and project scope)
+You hire one developer, not four.</h3>
 
 <p align="center">
   <a href="https://tejasviraj.in"><img src="https://img.shields.io/badge/Portfolio-tejasviraj.in-0e75b6?style=flat" alt="portfolio" /></a>
@@ -168,14 +162,9 @@ panel for catalogue, orders and notifications.
 | **Languages** | TypeScript · JavaScript |
 | **Web** | React · Next.js (App Router) · Tailwind CSS · shadcn/ui · Redux Toolkit · React Query |
 | **Mobile** | React Native · Expo · Expo Router · EAS Build · RevenueCat · react-native-ble-plx |
-<<<<<<< HEAD
 | **APIs & Data** | GraphQL · REST · Supabase · PostgreSQL · Prisma · Firebase · MongoDB · Strapi · Node.js · Express |
-| **Tools** | Git · GitHub Actions · Vercel · Postman · Figma · Claude Code · Codex |
-=======
-| **APIs & Data** | GraphQL · REST · Supabase · PostgreSQL · Prisma · Firebase · Strapi · Node.js · Express |
-| **AI** | OpenAI API · OpenAI Realtime API · Claude Code · Codex |
+| **AI** | OpenAI API · OpenAI Realtime API · Ollama · Claude Code · Codex |
 | **Tools** | Git · GitHub Actions · Vercel · Postman · Figma |
->>>>>>> 4c33529 (docs: update README to reflect enhanced personal branding and project scope)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,graphql,supabase,postgres,prisma,firebase,vercel,git,github,figma,postman&perline=9"
@@ -215,14 +204,8 @@ Technology · Graduated Sep 2024
 ---
 
 <p align="center">
-<<<<<<< HEAD
+  <b>Have something to build? Let's talk.</b><br/>
   📫 <a href="mailto:tejasviraj8686@gmail.com">tejasviraj8686@gmail.com</a> ·
   🌐 <a href="https://tejasviraj.in">tejasviraj.in</a> ·
   📅 <a href="https://cal.com/tejasviraj">Book a call</a>
-=======
-    <b>Have something to build? Let's talk.</b><br/>
-    📫 <a href="mailto:tejasviraj8686@gmail.com">tejasviraj8686@gmail.com</a> ·
-    🌐 <a href="https://tejasviraj.in">tejasviraj.in</a> ·
-    📅 <a href="https://cal.com/tejasviraj">Book a call</a>
->>>>>>> 4c33529 (docs: update README to reflect enhanced personal branding and project scope)
 </p>
