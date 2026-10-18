@@ -3,9 +3,15 @@
        alt="pixel waterfall banner" width="100%">
 </p>
 
+<<<<<<< HEAD
 <h1 align="center">Hi, I'm Tejasvi Raj — Frontend Developer 🔥⚡</h1>
 <h3 align="center">I build mobile apps, and lately the infrastructure underneath them.<br/>
 I like shipping end to end and finding out what actually breaks on a real device.</h3>
+=======
+<h1 align="center">Hi, I'm Tejasvi Raj 👋</h1>
+<h3 align="center">I build complete products — web app, mobile app, admin panel and API.<br/>
+    You hire one developer, not four.</h3>
+>>>>>>> 4c33529 (docs: update README to reflect enhanced personal branding and project scope)
 
 <p align="center">
   <a href="https://tejasviraj.in"><img src="https://img.shields.io/badge/Portfolio-tejasviraj.in-0e75b6?style=flat" alt="portfolio" /></a>
@@ -17,13 +23,19 @@ I like shipping end to end and finding out what actually breaks on a real device
 
 ---
 
-Frontend developer with **2+ years** building and shipping production web and
-mobile products with **React, Next.js and React Native (Expo)**. The work has
-spanned **BLE hardware integration**, **in-app subscriptions** and **real-time
-data sync** — with apps released to the App Store and Play Store, and an
-open-source React Native package published to npm.
+- 🧩 **I build the whole product.** The web app, the mobile app, the admin panel
+  for the team running it, and the API behind them — with **React, Next.js,
+  React Native (Expo) and Node.js**.
+- 📱 **My apps go live.** Shipped to the **App Store and Google Play**, with
+  automated pipelines to TestFlight and the Play Console. No manual builds. No
+  waiting on one person's laptop.
+- 🤖 **I ship AI, not just use it.** An open-source voice-AI package on npm, a
+  1st-place hackathon win, and the AI assistant on my portfolio.
+- 🧠 **I work with AI like a small team I lead.** Claude Code writes, Codex
+  reviews, and I make the final call. That's how I ship fast without cutting
+  corners.
 
-📍 Noida, India
+📍 Noida, India · 2+ years shipping production web and mobile apps
 
 ---
 
@@ -39,6 +51,8 @@ open-source React Native package published to npm.
   <img src="https://img.shields.io/badge/dependencies-0-brightgreen?style=flat" alt="zero dependencies" />
   <img src="https://img.shields.io/npm/l/react-native-realtime-voice?style=flat&color=blue" alt="license" />
 </p>
+
+**Let any React Native app talk to AI by voice — without shipping your OpenAI key.**
 
 Voice-to-voice AI agents for React Native / Expo, on OpenAI's Realtime API over
 WebRTC. I built the voice layer inside a fitness app, realised the hard parts
@@ -76,6 +90,9 @@ with npm trusted publishing (OIDC), so there is no long-lived token to leak.
 
 ### Frontend Developer · Appeneure — Noida, India
 `Sep 2024 – Present`
+
+_Complete products for real clients — web, mobile and admin — taken all the way
+to the App Store and Google Play._
 
 - Built both the **Next.js web app** and the **React Native (Expo) mobile app**
   for a gym operations platform — cleaning task workflows, equipment monitoring,
@@ -131,17 +148,16 @@ Built end to end solo: data pipeline, API and mobile app.
 ### [VolteX](https://github.com/tejasvi8686/Volex_Ecommerce) · [live ↗](https://volex-ecommerce.vercel.app)
 `Next.js · Node.js · Express · PostgreSQL · Prisma`
 
-Full-stack e-commerce platform — a Next.js storefront over an Express REST API
-and a Prisma/PostgreSQL data layer, with role-based access control middleware and
-an admin panel covering catalogue, orders and notification management.
+Full-stack e-commerce, built end to end: a Next.js storefront, an Express REST
+API, a Prisma/PostgreSQL database with role-based access control, and an admin
+panel for catalogue, orders and notifications.
 
 ---
 
 ## 🏆 Achievements
 
-🥇 **1st Place — AI Feature Planner Hackathon (2025)** — first among 50+ teams
-for a web app that generates feature suggestions for any product idea, built end
-to end in 24 hours on the OpenAI API.
+🥇 **1st place out of 50+ teams — AI Feature Planner Hackathon (2025).** Built in
+24 hours: a web app that suggests features for any product idea, on the OpenAI API.
 
 ---
 
@@ -152,8 +168,14 @@ to end in 24 hours on the OpenAI API.
 | **Languages** | TypeScript · JavaScript |
 | **Web** | React · Next.js (App Router) · Tailwind CSS · shadcn/ui · Redux Toolkit · React Query |
 | **Mobile** | React Native · Expo · Expo Router · EAS Build · RevenueCat · react-native-ble-plx |
+<<<<<<< HEAD
 | **APIs & Data** | GraphQL · REST · Supabase · PostgreSQL · Prisma · Firebase · MongoDB · Strapi · Node.js · Express |
 | **Tools** | Git · GitHub Actions · Vercel · Postman · Figma · Claude Code · Codex |
+=======
+| **APIs & Data** | GraphQL · REST · Supabase · PostgreSQL · Prisma · Firebase · Strapi · Node.js · Express |
+| **AI** | OpenAI API · OpenAI Realtime API · Claude Code · Codex |
+| **Tools** | Git · GitHub Actions · Vercel · Postman · Figma |
+>>>>>>> 4c33529 (docs: update README to reflect enhanced personal branding and project scope)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,graphql,supabase,postgres,prisma,firebase,vercel,git,github,figma,postman&perline=9"
@@ -193,7 +215,14 @@ Technology · Graduated Sep 2024
 ---
 
 <p align="center">
+<<<<<<< HEAD
   📫 <a href="mailto:tejasviraj8686@gmail.com">tejasviraj8686@gmail.com</a> ·
   🌐 <a href="https://tejasviraj.in">tejasviraj.in</a> ·
   📅 <a href="https://cal.com/tejasviraj">Book a call</a>
+=======
+    <b>Have something to build? Let's talk.</b><br/>
+    📫 <a href="mailto:tejasviraj8686@gmail.com">tejasviraj8686@gmail.com</a> ·
+    🌐 <a href="https://tejasviraj.in">tejasviraj.in</a> ·
+    📅 <a href="https://cal.com/tejasviraj">Book a call</a>
+>>>>>>> 4c33529 (docs: update README to reflect enhanced personal branding and project scope)
 </p>
