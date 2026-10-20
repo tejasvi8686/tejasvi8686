@@ -109,11 +109,12 @@ which uses Gemma 3 on Ollama to summarise RSS feeds and YouTube transcripts.
 ### [VolteX](https://github.com/tejasvi8686/Volex_Ecommerce) · [live ↗](https://volex-ecommerce.vercel.app) · in progress
 `Next.js · React · Express · Prisma · PostgreSQL`
 
-E-commerce platform for electronics. The Next.js storefront and the React admin
-dashboard (catalogue, orders, notifications) are built, and the PostgreSQL
-schema is designed in Prisma. The Express API is in progress: OTP + JWT login
-with refresh tokens, role-based access, rate limiting and email team invites
-are done.
+E-commerce platform for electronics, built with
+[@Rajasva-Raj-CODE](https://github.com/Rajasva-Raj-CODE). I built the Express +
+Prisma API and most of the React admin dashboard (catalogue, orders,
+notifications), and we built the Next.js storefront together. The API is in
+progress: the PostgreSQL schema, OTP + JWT login with refresh tokens,
+role-based access, rate limiting and email team invites are done.
 
 ---
 
