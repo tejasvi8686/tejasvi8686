@@ -4,32 +4,28 @@
 </p>
 
 <h1 align="center">Hi, I'm Tejasvi Raj 👋</h1>
-<h3 align="center">I build complete products — web app, mobile app, admin panel and API.<br/>
-You hire one developer, not four.</h3>
+<h3 align="center">React Native developer. I build mobile apps end to end and ship them<br/>
+to the App Store and Google Play — often with AI inside.</h3>
 
 <p align="center">
   <a href="https://tejasviraj.in"><img src="https://img.shields.io/badge/Portfolio-tejasviraj.in-0e75b6?style=flat" alt="portfolio" /></a>
   <a href="https://www.linkedin.com/in/tejasviraj/"><img src="https://img.shields.io/badge/LinkedIn-tejasviraj-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:tejasviraj8686@gmail.com"><img src="https://img.shields.io/badge/Email-tejasviraj8686-EA4335?style=flat&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://cal.com/tejasviraj"><img src="https://img.shields.io/badge/Book%20a%20call-cal.com-000000?style=flat" alt="cal.com" /></a>
-  <img src="https://komarev.com/ghpvc/?username=tejasvi8686&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-- 🧩 **I build the whole product.** The web app, the mobile app, the admin panel
-  for the team running it, and the API behind them — with **React, Next.js,
-  React Native (Expo) and Node.js**.
-- 📱 **My apps go live.** Shipped to the **App Store and Google Play**, with
-  automated pipelines to TestFlight and the Play Console. No manual builds. No
-  waiting on one person's laptop.
-- 🤖 **I ship AI, not just use it.** An open-source voice-AI package on npm, a
-  1st-place hackathon win, and the AI assistant on my portfolio.
-- 🧠 **I work with AI like a small team I lead.** Claude Code writes, Codex
-  reviews, and I make the final call. That's how I ship fast without cutting
-  corners.
+- 📱 **Mobile apps that go live.** React Native (Expo) apps on the **App Store and
+  Google Play**, released through EAS Build + GitHub Actions pipelines to
+  TestFlight and the Play Console.
+- 📡 **Hardware and real-time.** A Bluetooth baby monitor app that reads live
+  sensor data over BLE, and real-time AI voice over WebRTC.
+- 🤖 **AI features, not just AI tools.** An open-source voice-AI library on npm,
+  photo-based meal analysis, AI workout plans, and a 1st-place hackathon win.
+- 🧩 **The whole product.** Next.js admin dashboards and Node.js / Supabase
+  backends behind the apps.
 
-📍 Noida, India · 2+ years shipping production web and mobile apps
+📍 Noida, India · 2+ years building production mobile and web apps
 
 ---
 
@@ -80,71 +76,44 @@ with npm trusted publishing (OIDC), so there is no long-lived token to leak.
 
 ---
 
-## 💼 Experience
+## 💼 What I've built at work
 
-### Frontend Developer · Appeneure — Noida, India
-`Sep 2024 – Present`
+`Frontend Developer · Appeneure, Noida · Sep 2024 – Present` — client projects, so the code is private.
 
-_Complete products for real clients — web, mobile and admin — taken all the way
-to the App Store and Google Play._
-
-- Built both the **Next.js web app** and the **React Native (Expo) mobile app**
-  for a gym operations platform — cleaning task workflows, equipment monitoring,
-  incident reporting and staff workload dashboards, with OTP authentication,
-  role-based routing and real-time sync via Supabase, Strapi and React Query
-- Delivered the MVP and production release of a **Bluetooth-connected baby
-  monitor app**: `react-native-ble-plx` for live temperature, humidity and
-  battery telemetry, plus TOG clothing recommendations, alerts, multi-device
-  pairing and family sharing on Supabase
-- Building the mobile app and Next.js admin panel for a **Norwegian fitness
-  client** — RevenueCat for in-app subscription management, and the
-  coach–athlete data flows
-- Built an **AI fitness app** with generated workout plans, macro and water
-  tracking, camera-based meal logging and sleep/recovery analytics, plus its
-  Next.js admin dashboard
-- Built the **real-time voice layer** for that app's in-app AI coach on OpenAI's
-  Realtime API over WebRTC, then extracted it into a standalone React Native
-  package and published it to npm
-- Set up **EAS Build and GitHub Actions** pipelines for automated TestFlight and
-  Play Store releases, replacing a manual build process; web deployed via Vercel
-
-### Frontend Developer Intern · Own Technologies — New Delhi, India
-`Nov 2023 – Feb 2024`
-
-- Built a learning platform from scratch in React.js, Redux and SCSS, including
-  note purchase and download flows for students and an application flow for teachers
-- Created a reusable component library and responsive SCSS layouts, and added API
-  error handling with user-facing fallback states
-
-### Frontend Developer Intern · LIPIJobs — Noida, India
-`Aug 2023 – Nov 2023`
-
-- Built dynamic UI components in React.js and server-rendered pages with EJS,
-  improving initial page load and search-engine visibility
-- Created responsive layouts with Bootstrap and SCSS, keeping the interface
-  consistent across screen sizes
+- **Bluetooth baby monitor** — React Native app, from MVP to the App Store and
+  Google Play: live temperature, humidity and battery data over BLE
+  (`react-native-ble-plx`), multi-device pairing, alerts and family sharing.
+- **AI fitness app** — photo-based meal analysis, AI workout plans, macro and
+  water tracking, sleep/recovery analytics, a real-time AI voice coach, and a
+  Next.js admin dashboard.
+- **Gym operations platform** — React Native app + Next.js web dashboard with
+  OTP login, role-based access and real-time sync (Supabase, Strapi, React Query).
+- **Subscriptions** — RevenueCat on iOS and Android for a coaching app, plus its
+  coach–athlete features.
+- **Release automation** — EAS Build + GitHub Actions pipelines to TestFlight
+  and Google Play, replacing manual builds.
 
 ---
 
-## 🚀 Projects
+## 🚀 Side projects
 
 ### [AINewsly](https://github.com/tejasvi8686/AINewsly)
-`React Native · Expo · Node.js · Express · MongoDB · Ollama (Gemma 3) · Firebase`
+`React Native · Expo · Reanimated · Node.js · Express · MongoDB · Ollama (Gemma 3)`
 
-Swipe-through news app that generates a title, a summary and a "why it matters"
-for every story. An Express backend ingests YouTube channels and RSS feeds every
-four hours on a cron job; each article and transcript is processed by Gemma 3
-running locally on Ollama into structured JSON — no API costs, no rate limits —
-stored in MongoDB and served over a REST API on Vercel. The Expo client renders
-a full-screen swipe feed with offline caching, save and like, on Firebase auth.
-Built end to end solo: data pipeline, API and mobile app.
+Swipe-through news app that shows a title, a short summary and a "why it
+matters" line for every story. The Expo app has a full-screen swipe feed, saved
+and liked articles stored on the device, skeleton loading and haptics, plus a
+Next.js landing page. Stories and summaries come from my Express + MongoDB API,
+which uses Gemma 3 on Ollama to summarise RSS feeds and YouTube transcripts.
 
-### [VolteX](https://github.com/tejasvi8686/Volex_Ecommerce) · [live ↗](https://volex-ecommerce.vercel.app)
-`Next.js · Node.js · Express · PostgreSQL · Prisma`
+### [VolteX](https://github.com/tejasvi8686/Volex_Ecommerce) · [live ↗](https://volex-ecommerce.vercel.app) · in progress
+`Next.js · React · Express · Prisma · PostgreSQL`
 
-Full-stack e-commerce, built end to end: a Next.js storefront, an Express REST
-API, a Prisma/PostgreSQL database with role-based access control, and an admin
-panel for catalogue, orders and notifications.
+E-commerce platform for electronics. The Next.js storefront and the React admin
+dashboard (catalogue, orders, notifications) are built, and the PostgreSQL
+schema is designed in Prisma. The Express API is in progress: OTP + JWT login
+with refresh tokens, role-based access, rate limiting and email team invites
+are done.
 
 ---
 
@@ -159,41 +128,16 @@ panel for catalogue, orders and notifications.
 
 | | |
 |---|---|
-| **Languages** | TypeScript · JavaScript |
+| **Mobile** | React Native · Expo · Expo Router · EAS Build · RevenueCat · react-native-ble-plx · WebRTC |
 | **Web** | React · Next.js (App Router) · Tailwind CSS · shadcn/ui · Redux Toolkit · React Query |
-| **Mobile** | React Native · Expo · Expo Router · EAS Build · RevenueCat · react-native-ble-plx |
-| **APIs & Data** | GraphQL · REST · Supabase · PostgreSQL · Prisma · Firebase · MongoDB · Strapi · Node.js · Express |
-| **AI** | OpenAI API · OpenAI Realtime API · Ollama · Claude Code · Codex |
-| **Tools** | Git · GitHub Actions · Vercel · Postman · Figma |
+| **APIs & Data** | Node.js · Express · REST · GraphQL · Supabase · PostgreSQL · Prisma · MongoDB · Firebase · Strapi |
+| **AI** | OpenAI API · OpenAI Realtime API · Ollama |
+| **Languages** | TypeScript · JavaScript |
+| **Tools** | Git · GitHub Actions · Vercel · Sentry · Postman · Figma · Claude Code · Codex |
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,redux,nodejs,express,graphql,supabase,postgres,prisma,firebase,vercel,git,github,figma,postman&perline=9"
        alt="skills logos" />
-</p>
-
----
-
-## 🎓 Education
-
-**B.Tech, Computer Science** — Dr. K. N. Modi Institute of Engineering &
-Technology · Graduated Sep 2024
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejasvi8686&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejasvi8686&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&count-private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejasvi8686&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tejasvi8686&theme=tokyonight&hide_border=true" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tejasvi8686&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -204,8 +148,7 @@ Technology · Graduated Sep 2024
 ---
 
 <p align="center">
-  <b>Have something to build? Let's talk.</b><br/>
   📫 <a href="mailto:tejasviraj8686@gmail.com">tejasviraj8686@gmail.com</a> ·
   🌐 <a href="https://tejasviraj.in">tejasviraj.in</a> ·
-  📅 <a href="https://cal.com/tejasviraj">Book a call</a>
+  💼 <a href="https://www.linkedin.com/in/tejasviraj/">LinkedIn</a>
 </p>
