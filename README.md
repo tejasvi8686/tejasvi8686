@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi, I'm Tejasvi Raj 👋</h1>
 <h3 align="center">React Native developer. I build mobile apps end to end and ship them<br/>
-to the App Store and Google Play — often with AI inside.</h3>
+to the App Store and Google Play — often with AI inside.</h3> 
 
 <p align="center">
   <a href="https://tejasviraj.in"><img src="https://img.shields.io/badge/Portfolio-tejasviraj.in-0e75b6?style=flat" alt="portfolio" /></a>
