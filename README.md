@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/tejasvi8686/tejasvi8686/main/assets/banner.gif"
        alt="pixel waterfall banner" width="100%">
-</p>
+</p> 
 
 <h1 align="center">Hi, I'm Tejasvi Raj 👋</h1>
 <h3 align="center">React Native developer. I build mobile apps end to end and ship them<br/>
